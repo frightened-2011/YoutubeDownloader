@@ -25,24 +25,24 @@ Youtube Downloader is a Python Application that can be used to download Youtube 
 * [Tkinter](https://www.tutorialspoint.com/python/python_gui_programming.htm)
 ## Local Installation
 
-1. Drop a ⭐ on the Github Repository. 
-2. Clone the Repo by going to your local Git Client and pushing in the command: 
+1. Drop a ⭐ on the Repo. 
+2. Clone the Repo by going to your local Git Client and running this command: 
 
 ```sh
 git clone https://github.com/swapnilsparsh/YoutubeDownloader.git
 ```
 
-3. Install the Package: 
+3. Install the Packages: 
 ```sh
 pip install pytube3
 pip install requests
 ```
-If you are facing issue in downloading Music Videos/Audios files then:
+If you are facing issues in downloading Videos/Audios then:
 ```sh
 Go to your Pytube folder and open extract.py file and go to 301 Line (or something near this line) 
-change the "cipher" -> "signatureCipher"
+change "cipher" -> "signatureCipher"
 ```
-4. At last, push in the command:
+4. At last,run this command:
 ```sh
 python main.py
 ```
@@ -51,7 +51,7 @@ python main.py
 
 [MIT](https://github.com/swapnilsparsh/YoutubeDownloader/blob/master/LICENSE)
 
-## Connect with me
+## Contact me
 <a href="https://github.com/swapnilsparsh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
